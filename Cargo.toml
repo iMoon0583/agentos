@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "The agent OS that evolves itself. "
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
